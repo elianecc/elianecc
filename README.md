@@ -1,7 +1,7 @@
 ### Hi there, I'm Eliane 👋
 Change is the only constant in life. Don't fear the change, embrace it and go with the flow
 
-- 🕵️‍♀️ I´m learning about [Kotlin,Java, C#, Design Patterns]
+- 🕵️‍♀️ I´m learning about [Python, Data Science, Cloud Computing]
 - 💬 Ask me about [html, css, javascript, php5, git, vscode]
 
 <h2 align="center">TECNOLOGIES 🧑‍💻</h2>
